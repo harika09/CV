@@ -360,21 +360,21 @@ img{
 }
 /* Skills Frontend */
 .skills__html{
-    width: 30%;
+    width: 40%;
+}
+
+.skills__css{
+    width: 40%;
 }
 
 .skills__js{
-    width: 10%;
+    width: 15%;
 }
 .skills__bootstrap{
     width: 15%;
 }
 
 .skills__swift{
-    width: 30%;
-}
-
-.skills__css{
     width: 30%;
 }
 
