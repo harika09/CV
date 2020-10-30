@@ -30,3 +30,17 @@ function linkAction(){
 navLink.forEach(n=>n.addEventListener('click', linkAction))
 
 
+/*===== TYPING ANIMATION ===== */
+var typed = new Typed('.animation',{
+    strings: [
+       "",
+       "Frontend Developer",
+       "Freelancer",
+       "Gamer"
+
+    ],
+
+    typeSpeed: 100,
+    backSpeed: 50,
+    loop: true
+});
