@@ -36,7 +36,7 @@ var typed = new Typed('.animation',{
        "",
        "Frontend Developer",
        "Freelancer",
-       "Gamer"
+       "Sneaker Reseller"
 
     ],
 
